@@ -1,0 +1,8 @@
+{
+  "name": "aooe.in",
+  "private": true,
+  "description": "aooe.in web panel local server",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
